@@ -1,0 +1,7 @@
+.main-page {
+    width: 100dvw;
+    height: 100dvh;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+}
