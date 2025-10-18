@@ -1,5 +1,5 @@
 import { type Diagnostic, linter } from "@codemirror/lint";
-import { githubDark, githubLight } from "@uiw/codemirror-theme-github";
+import { githubDark } from "@uiw/codemirror-theme-github";
 import CodeMirror from "@uiw/react-codemirror";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { extensions } from "../share/code-theme";

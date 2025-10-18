@@ -1,0 +1,5 @@
+type WelcomeProps = {
+    children: "~~~~"
+}
+
+type 
